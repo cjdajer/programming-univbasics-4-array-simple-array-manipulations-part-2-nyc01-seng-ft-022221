@@ -8,3 +8,13 @@ end
 
 def using_uniq(array)
   array.uniq
+end 
+
+def using_flatten(array)
+  array.flatten 
+end 
+
+def unsing_delete_at(array, intenger)
+  array.delete_at(intenger)
+end 
+
