@@ -1,5 +1,5 @@
 def using_concat(a, b)
- a.concat
+ a.concat(b)
 end 
 
 def using_insert(arrays)
